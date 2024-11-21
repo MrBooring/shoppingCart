@@ -49,13 +49,13 @@ This project is a fully functional **Shopping Cart Application** built using Flu
    ```bash
    git clone https://github.com/your-repository/shopping-cart-app.git
    cd shopping-cart-app
-
+---
 ##Technologies Used
 - Flutter: Cross-platform app development.
 - Dart: Programming language for Flutter.
 - SQLite: Local database for storing products and transactions.
 - GetX: State management and dependency injection.
-
+---
 
 ##Directory Structure
 lib/
@@ -73,6 +73,7 @@ lib/
 │   ├── checkout_screen.dart    # Final checkout and payment
 └── main.dart                   # Entry point
 
+---
 
 ##How to Use
 - Launch the app on your device/emulator.
@@ -83,11 +84,16 @@ lib/
 - Remove items.
 - Apply discounts and proceed to checkout.
 
+
+---
+
+
 ##Future Enhancements
 - Integration with a remote backend (e.g., Firebase).
 - User authentication for personalized carts.
 - Enhanced UI with animations.
 
+---
 
 ##Contact
 - Siddhant Vedpathak
