@@ -1,6 +1,12 @@
 # Flutter Shopping Cart Application
 
 This project is a fully functional **Shopping Cart Application** built using Flutter. It demonstrates modern Flutter development practices, including state management with **GetX**, local database integration with **SQLite**, and clean, maintainable code.
+---
+
+### Android
+
+- [Download APK](https://github.com/MrBooring/shoppingCart/shoppingCart.apk)
+
 
 ---
 
