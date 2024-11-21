@@ -5,7 +5,7 @@ This project is a fully functional **Shopping Cart Application** built using Flu
 
 ### Android
 
-- [Download APK](https://github.com/MrBooring/shoppingCart/releases/download/v1.0/shoppingCart.apk)
+- [Download APK](https://github.com/MrBooring/shoppingCart/releases/tag/V1.0)
 
 
 ---
