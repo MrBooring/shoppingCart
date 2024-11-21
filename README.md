@@ -28,11 +28,17 @@ This project is a fully functional **Shopping Cart Application** built using Flu
 ---
 
 ## Screenshots
-![Screenshot_1732131324](https://github.com/user-attachments/assets/769b6408-0a88-4a9d-b24e-638fc6223e4a)
-![Screenshot_1732148032](https://github.com/user-attachments/assets/0503c72e-2b19-4f0e-a3e7-f10aea03483c)
-![Screenshot_1732148035](https://github.com/user-attachments/assets/11711d2a-3c64-4e6b-b816-e933b607e18e)
-![Screenshot_1732148042](https://github.com/user-attachments/assets/14e2681d-b978-4f85-889e-d74218bd69ae)
-![Screenshot_1732148014](https://github.com/user-attachments/assets/8330f22f-bca3-43c1-aa91-eff8483493c0)
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/769b6408-0a88-4a9d-b24e-638fc6223e4a" alt="Screenshot 1" width="30%" style="margin-bottom: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0503c72e-2b19-4f0e-a3e7-f10aea03483c" alt="Screenshot 2" width="30%" style="margin-bottom: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/11711d2a-3c64-4e6b-b816-e933b607e18e" alt="Screenshot 3" width="30%" style="margin-bottom: 10px;"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/14e2681d-b978-4f85-889e-d74218bd69ae" alt="Screenshot 4" width="30%" style="margin-bottom: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/8330f22f-bca3-43c1-aa91-eff8483493c0" alt="Screenshot 5" width="30%" style="margin-bottom: 10px;"/>
+</div>
 
   
 ---
