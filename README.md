@@ -57,24 +57,6 @@ This project is a fully functional **Shopping Cart Application** built using Flu
 - GetX: State management and dependency injection.
 ---
 
-## Directory Structure
-lib/
-├── controller/
-│   ├── cart_controller.dart    # Handles cart operations
-│   ├── discount_controller.dart # Manages discount logic
-├── model/
-│   ├── data_models/
-│   │   ├── product_model.dart  # Product schema
-│   │   ├── cart_item.dart      # Cart item schema
-│   │   ├── discount.dart       # Discount schema
-├── view/
-│   ├── home_screen.dart        # Displays product list
-│   ├── cart_screen.dart        # Cart operations
-│   ├── checkout_screen.dart    # Final checkout and payment
-└── main.dart                   # Entry point
-
----
-
 ## How to Use
 - Launch the app on your device/emulator.
 - Browse the products on the home screen.
